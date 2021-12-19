@@ -1,4 +1,4 @@
-# ##Java is an Object Oriented programming language
+##Java is an Object Oriented programming language
 ##Four Pillars: Polymorphism, Inheritance, Encapsulation, Abstraction
 
 ##Polymorphism : Poly : Multiple, Morphism: form
